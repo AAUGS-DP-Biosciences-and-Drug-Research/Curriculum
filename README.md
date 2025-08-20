@@ -1,29 +1,15 @@
-# graduate-doc-template
+# Curriculum
 
+## Common rules
 
-This template repository renders the `README.md` file into a styled HTML page and a downloadable PDF using a Jinja2 template and WeasyPrint. It is fully automated via GitHub Actions and designed to be reused across graduate school documentation categories.
+The Faculty Board of the Faculty of Science and Engineering (FNT) decided on 21 May 2025 that the doctoral studies within the Doctoral Programme in Chemical and Process Engineering, the Doctoral Programme in Biosciences and Drug Research, and the Doctoral Programme in Sciences and Information Technology will comprise 30 credits and include the following components:
 
-## 🚀 Features
-- 📄 Write content in Markdown (`README.md`)
-- 🎨 Apply custom styling via Jinja2 template
-- 🌐 Deploy as a static website via GitHub Pages
-- 🧾 Export as PDF using WeasyPrint
+- At least 20 cr in the major subject or related fields (such as complementary areas, interdisciplinary connections, etc.) for a 3–4-year doctoral project.
+- A maximum of 5 cr for participation in conferences (5 cr requires active participation with one's own contribution in at least two international conferences).
+- General skills/minor subject area (maximum of 10 cr).
+- A maximum of 5 cr credits from language studies may be included.
 
-## 🛠️ Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-ORG/graduate-doc-template.git your-topic-doc
-   cd your-topic-doc
-   ```
+The decision that doctoral studies within these programmes will comprise 30 credits entered into force on 1 August 2025. From this date onward, all doctoral researchers will transition to the new structure, regardless of their previous study plan.
 
-2. Edit `README.md` with your content.
-3. Commit and push changes.
+## Recomendations for our Doctoral Program
 
-GitHub Actions will:
-- Convert the README to HTML using the Jinja2 template
-- Export the HTML as a PDF
-- Publish both to GitHub Pages
-
-## 📄 Output
-- `public/index.html` – Web version
-- `public/Document.pdf` – Downloadable PDF
