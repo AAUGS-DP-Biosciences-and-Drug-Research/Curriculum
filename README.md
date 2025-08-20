@@ -13,3 +13,5 @@ The decision that doctoral studies within these programmes will comprise 30 cred
 
 ## Recommendations for our Doctoral Program
 
+Here are the recommendations
+
