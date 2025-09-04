@@ -11,14 +11,9 @@
 - Courses can be **local, national, or international**.
 - **A course on research ethics is required**
 
-
----
-
 ### Scientific Work in Other Research Institutions (Max 5 ECTS)
 
 - **1 ECTS per week** in a national or international host laboratory.
-
----
 
 ### Participation in Conferences (Max 5 ECTS)
 
@@ -26,8 +21,6 @@
 - Full **5 ECTS** requires participation in **at least 2 international conferences (abroad)**.
 - **1 oral presentation = 1 ECTS**
 - **1 poster presentation = 1 ECTS**
-
----
 
 ## Scientific Publications Not Included in the Thesis (Max 3 ECTS)
 
@@ -40,13 +33,12 @@
 ### Teaching and Supervision at University Level (Max 5 ECTS)
 
 - **Lecturing (own material):** 6 × 45 min = **1 ECTS**
-- **Lecturing (prepared material):** 12 × 45 min = **1 ECTS**
 - **Teaching in practical/lab courses:** 10 h = **1 ECTS**
 - **Other teaching activities:** 27 h = **1 ECTS**
 - **Supervision of BSc thesis:** **1 ECTS** per thesis
 - **Supervision of MSc student (lab + thesis):** **2 ECTS**
 - **Supervision of interns:** e.g., one 10 ECTS student or two 5 ECTS students = **2 ECTS**
----
+
 ### Other Studies
 
 - **University pedagogics courses**
