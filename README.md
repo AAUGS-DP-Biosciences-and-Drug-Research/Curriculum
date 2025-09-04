@@ -1,17 +1,58 @@
 # Curriculum
 
-## Common rules
+## Courses in Major Subject and Methodological Studies (Minimum 20 ECTS)
 
-The Faculty Board of the Faculty of Science and Engineering (FNT) decided on 21 May 2025 that the doctoral studies within the Doctoral Programme in Chemical and Process Engineering, the Doctoral Programme in Biosciences and Drug Research, and the Doctoral Programme in Sciences and Information Technology will comprise 30 credits and include the following components:
+### Any courses that support your PhD project directly
 
-- At least 20 ECTS in the major subject or related fields (such as complementary areas, interdisciplinary connections, etc.) for a 3–4-year doctoral project.
-- A maximum of 5 ECTS for participation in conferences (5 ECTS requires active participation with one's contribution in at least two international conferences).
-- General skills/minor subject area (maximum of 10 ECTS).
-- A maximum of 5 ECTS from language studies may be included.
+- **Advanced-level courses** in the major subject or related fields:
+  - e.g., biochemistry, cell biology, ecology, biomedicine, pharmacy, bioinformatics
+- **Methodological courses:**
+  - e.g., statistics, experimental design, bioinformatics tools
+- Courses can be **local, national, or international**.
+- **A course on research ethics is required**
 
-The decision that doctoral studies within these programmes will comprise 30 credits entered into force on 1 August 2025. From this date onward, all doctoral researchers will transition to the new structure, regardless of their previous study plan.
 
-## Recommendations for our Doctoral Program
+---
 
-Here are the recommendations
+### Scientific Work in Other Research Institutions (Max 5 ECTS)
 
+- **1 ECTS per week** in a national or international host laboratory.
+
+---
+
+### Participation in Conferences (Max 5 ECTS)
+
+- Participation must include your **own oral or poster presentation**.
+- Full **5 ECTS** requires participation in **at least 2 international conferences (abroad)**.
+- **1 oral presentation = 1 ECTS**
+- **1 poster presentation = 1 ECTS**
+
+---
+
+## Scientific Publications Not Included in the Thesis (Max 3 ECTS)
+
+- **Participation in manuscript writing = 1 ECTS**
+
+---
+
+## Transferable Skills (Max 10 ECTS of the required 30 ECTS)
+
+### Teaching and Supervision at University Level (Max 5 ECTS)
+
+- **Lecturing (own material):** 6 × 45 min = **1 ECTS**
+- **Lecturing (prepared material):** 12 × 45 min = **1 ECTS**
+- **Teaching in practical/lab courses:** 10 h = **1 ECTS**
+- **Other teaching activities:** 27 h = **1 ECTS**
+- **Supervision of BSc thesis:** **1 ECTS** per thesis
+- **Supervision of MSc student (lab + thesis):** **2 ECTS**
+- **Supervision of interns:** e.g., one 10 ECTS student or two 5 ECTS students = **2 ECTS**
+---
+### Other Studies
+
+- **University pedagogics courses**
+- **Language courses** (**max 5 ECTS**)
+- **Academic and scientific writing courses**
+- **Communication and career development courses**
+- **Public engagement** (e.g., school visits, PR events): **1 ECTS per 3 visits or 27 h of work**
+- **Other transferable skills** (e.g., computing, project management): **27 h = 1 ECTS**
+---
