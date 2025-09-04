@@ -2,7 +2,7 @@
 
 ## Courses in Major Subject and Methodological Studies (Minimum 20 ECTS)
 
-### Any courses that support your PhD project directly
+#### Courses that support your PhD project
 
 - **Advanced-level courses** in the major subject or related fields:
   - e.g., biochemistry, cell biology, ecology, biomedicine, pharmacy, bioinformatics
@@ -11,26 +11,24 @@
 - Courses can be **local, national, or international**.
 - **A course on research ethics is required**
 
-### Scientific Work in Other Research Institutions (Max 5 ECTS)
+#### Scientific Work in Other Research Institutions (Max 5 ECTS)
 
 - **1 ECTS per week** in a national or international host laboratory.
 
-### Participation in Conferences (Max 5 ECTS)
+#### Participation in Conferences (Max 5 ECTS)
 
 - Participation must include your **own oral or poster presentation**.
 - Full **5 ECTS** requires participation in **at least 2 international conferences (abroad)**.
 - **1 oral presentation = 1 ECTS**
 - **1 poster presentation = 1 ECTS**
 
-## Scientific Publications Not Included in the Thesis (Max 3 ECTS)
+#### Scientific Publications Not Included in the Thesis (Max 3 ECTS)
 
 - **Participation in manuscript writing = 1 ECTS**
 
----
-
 ## Transferable Skills (Max 10 ECTS of the required 30 ECTS)
 
-### Teaching and Supervision at University Level (Max 5 ECTS)
+#### Teaching and Supervision at University Level (Max 5 ECTS)
 
 - **Lecturing (own material):** 6 × 45 min = **1 ECTS**
 - **Teaching in practical/lab courses:** 10 h = **1 ECTS**
@@ -39,7 +37,7 @@
 - **Supervision of MSc student (lab + thesis):** **2 ECTS**
 - **Supervision of interns:** e.g., one 10 ECTS student or two 5 ECTS students = **2 ECTS**
 
-### Other Studies
+#### Other Studies
 
 - **University pedagogics courses**
 - **Language courses** (**max 5 ECTS**)
