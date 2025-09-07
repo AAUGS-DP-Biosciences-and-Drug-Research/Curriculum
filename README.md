@@ -9,10 +9,8 @@
   - Midterm/Licentiate/Halftime seminar (Compulsory course for MM/EMB)
 
 #### Courses that support your PhD project
-- **Advanced-level courses** in the major subject or related fields:
-  - e.g., biochemistry, cell biology, ecology, biomedicine, pharmacy, bioinformatics, programming
-- **Methodological courses:**
-  - e.g., statistics, experimental design, bioinformatics tools
+- **Advanced-level courses** in the major subject or related fields
+- **Methodological courses:** e.g., statistics, experimental design, bioinformatics tools
 - Courses can be **local, national, or international**.
 
 #### Scientific Work in Other Research Institutions (Max 5 ECTS)
