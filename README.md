@@ -1,6 +1,6 @@
 # Curriculum
 
-## Courses in major subject or related fields (20-30 ECTS)
+## 🟦 Courses in major subject or related fields (20-30 ECTS)
 
 #### Compulsary courses
 - **A course on research ethics**
@@ -31,7 +31,7 @@
 
 - **Participation in manuscript writing = 1 ECTS**
 
-## General skills/minor subject area (0-10 ECTS)
+## 🟩 General skills/minor subject area (0-10 ECTS)
 
 #### Teaching and Supervision at University Level (Max 5 ECTS)
 
