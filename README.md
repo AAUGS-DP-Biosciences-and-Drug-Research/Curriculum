@@ -37,8 +37,7 @@
 #### Other Studies
 - **University pedagogics courses**
 - **Language courses** (**max 5 ECTS**)
-- **Academic and scientific writing courses**
-- **Communication and career development courses**
+- **Academic and scientific writing courses**. **Communication and career development courses**.
 - **Public engagement** (e.g., school visits, PR events): **1 ECTS per 3 visits or 27 h of work**
 ---
 
