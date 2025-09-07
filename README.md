@@ -1,15 +1,20 @@
 # Curriculum
 
-## Courses in Major Subject and Methodological Studies (Minimum 20 ECTS)
+## Courses in major subject or related fields (20-30 ECTS)
+
+#### Compulsary courses
+- **A course on research ethics**
+- **Subject specific compulsory courses**:
+  - Bioseminar course (Compulsory course for Biochemistry and Cell Biology).
+  - Midterm/Licentiate/Halftime seminar (Compulsory course for MM/EMB)
 
 #### Courses that support your PhD project
 
 - **Advanced-level courses** in the major subject or related fields:
-  - e.g., biochemistry, cell biology, ecology, biomedicine, pharmacy, bioinformatics
+  - e.g., biochemistry, cell biology, ecology, biomedicine, pharmacy, bioinformatics, programming
 - **Methodological courses:**
   - e.g., statistics, experimental design, bioinformatics tools
 - Courses can be **local, national, or international**.
-- **A course on research ethics is required**
 
 #### Scientific Work in Other Research Institutions (Max 5 ECTS)
 
@@ -26,7 +31,7 @@
 
 - **Participation in manuscript writing = 1 ECTS**
 
-## Transferable Skills (Max 10 ECTS of the required 30 ECTS)
+## General skills/minor subject area (0-10 ECTS)
 
 #### Teaching and Supervision at University Level (Max 5 ECTS)
 
