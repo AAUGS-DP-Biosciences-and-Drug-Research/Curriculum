@@ -11,7 +11,6 @@
 #### Courses that support your PhD project
 - **Advanced-level courses** in the major subject or related fields
 - **Methodological courses:** e.g., statistics, experimental design, bioinformatics tools
-- Courses can be **local, national, or international**.
 
 #### Scientific Work in Other Research Institutions (Max 5 ECTS)
 - **1 ECTS per week** in a national or international host laboratory.
@@ -41,5 +40,4 @@
 - **Academic and scientific writing courses**
 - **Communication and career development courses**
 - **Public engagement** (e.g., school visits, PR events): **1 ECTS per 3 visits or 27 h of work**
-- **Other transferable skills** (e.g., computing, project management): **27 h = 1 ECTS**
 ---
