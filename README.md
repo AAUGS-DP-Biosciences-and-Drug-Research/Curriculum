@@ -10,6 +10,9 @@
 - **Advanced-level courses** in the major subject or related fields
 - **Methodological courses:** e.g., statistics, experimental design, bioinformatics tools
 
+#### Conferences (Max 5 ECTS)
+- 5 ECTS requires active participation with one's own contribution in at least two international conferences
+
 ## 🟩 General skills/minor subject area (0-10 ECTS)
 
 - **University pedagogics courses**
