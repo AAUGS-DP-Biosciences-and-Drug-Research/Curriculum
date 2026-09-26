@@ -1,25 +1,12 @@
-# Curriculum
+# Curriculum – moved
 
-## 🟦 Courses in major subject or related fields (20-30 ECTS)
+This page is now part of the programme website, maintained in the
+[Home](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/Home) repository.
 
-#### Compulsary courses
-- **A course on research ethics**
-- **Subject specific compulsory courses**
+- 🌐 Web page: https://aaugs-dp-biosciences-and-drug-research.github.io/Home/curriculum/
+- 📄 PDF: https://aaugs-dp-biosciences-and-drug-research.github.io/Home/pdf/curriculum.pdf
+- ✏️ Edit the text: [`docs/curriculum.md`](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/Home/blob/main/docs/curriculum.md)
 
-#### Courses that support your PhD project
-- **Advanced-level courses** in the major subject or related fields
-- **Methodological courses:** e.g., statistics, experimental design, bioinformatics tools
-
-#### Conferences (Max 5 ECTS)
-- 5 ECTS requires active participation with one's own contribution in at least two international conferences
-
-## 🟩 General skills/minor subject area (0-10 ECTS)
-
-- **University pedagogics courses**
-- **Language courses** (**max 5 ECTS**)
-
----
-
-## Useful ressources
-
-- 📝 [Skills and Competencies (DOCX)](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/Yearly_followup/raw/main/Skills%20and%20competencies_v250108.docx?download=1)
+The old address (`https://aaugs-dp-biosciences-and-drug-research.github.io/Curriculum/`)
+redirects to the new page, and the old `Document.pdf` is replaced by a one-page
+notice pointing to the new PDF. This repository is kept for its history only.
